@@ -13,5 +13,10 @@ Thumbs.db
 # Logs
 *.log
 
+# ML models
+*.pt
+*.pth
+*.onnx
+
 # Temp
 /tmp/
